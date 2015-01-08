@@ -230,7 +230,7 @@ function onActiveChange(isActive)
     end
 end
 scriptId = 'com.andrewtlove.scripts.Rdio'
-scriptDetailsUrl = 'http://andrewtlove.com'
+scriptDetailsUrl = 'https://github.com/andrewtlove/Rdio-Myo-Connector'
 scriptTitle = 'Rdio Connector'
 
 currentPlayer = MediaPlayer:new()
